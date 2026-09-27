@@ -164,3 +164,9 @@ VentureBar is an investment-research and workflow tool. Its scores, signals, sou
 ## Author
 
 Built by Ishan Patel as a product and investing project focused on evidence-driven venture research.
+
+## Copyright
+
+Copyright © 2026 Ishan Patel. All rights reserved.
+
+This source code is publicly available for portfolio review and educational inspection only. No permission is granted to copy, modify, distribute, sublicense, or use this software commercially without written authorization.
