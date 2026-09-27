@@ -1,0 +1,15 @@
+Secrets.xcconfig
+# API keys and local configuration
+VentureBar/Secrets.xcconfig
+Secrets.xcconfig
+
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+
+# Build output
+DerivedData/
+build/
